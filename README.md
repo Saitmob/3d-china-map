@@ -1,5 +1,8 @@
 # 3d-china-map
 
+#### 使用ThreeJs绘制的3d地图，地图根据`geoJson`数据生成
+
+
 ## Project setup
 ```
 yarn install
@@ -20,5 +23,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
