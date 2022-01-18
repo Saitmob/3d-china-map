@@ -3,7 +3,7 @@
  * @Author: qinxp 
  * @Date: 2022-01-11 17:02:52 
  * @Last Modified by: qinxp
- * @Last Modified time: 2022-01-18 11:30:05
+ * @Last Modified time: 2022-01-18 16:32:04
  */
  <template>
     <div ref="box" class="china-chart">
